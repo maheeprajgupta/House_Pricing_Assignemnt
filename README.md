@@ -17,7 +17,7 @@ The company is looking at prospective properties to buy to enter the market. You
 * Checkpoint 7: Building a Linear Regression Model
 * Checkpoint 8: Regularisation (Hyperparameter Tuning)
 * Checkpoint 9: Model Evaluation
-*Conclusions
+* Checkpoint 10: Conclusions
 
 ## General Information
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. 
